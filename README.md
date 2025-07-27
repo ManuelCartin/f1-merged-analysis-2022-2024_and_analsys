@@ -22,4 +22,5 @@ This project merges and analyzes Formula 1 race data from 2022 to 2024, focusing
 - Lap-by-lap performance analysis
 - Pit stop prediction and tire degradation modeling
 - Visualization of race progression and strategic changes
+
 * disclaimer Total thanks to GitHub user toUpperCase78 and thanks to him we obtained the data that was used to join the final CSV.*
