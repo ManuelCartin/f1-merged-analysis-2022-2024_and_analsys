@@ -1,4 +1,4 @@
-# F1 Insights: Creating a Data Product for Strategic Decision-Making
+# F1 Insights Project: Creating a Data Product Against All Odds
 This project goes beyond data analysis; it's about creating a source of competitive intelligence for decision-making. My goal was to merge telemetry and strategy data from the 2022-2024 Formula 1 seasons to build a unique and valuable data product that would allow strategists and engineers to gain a competitive advantage.
 
 The idea was born out of my curiosity about a video from the F1 community discussing the role of AI. I realized that a PM with strong data engineering skills could create the basic data product that AI would need to flourish. This project is a demonstration of that philosophy.
